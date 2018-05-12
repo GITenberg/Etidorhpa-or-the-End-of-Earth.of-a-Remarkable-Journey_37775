@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '39051'
     url: http://www.gutenberg.org/2009/agents/39051
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37775#Etidorhpa-or-the-End-of-Earth.of-a-Remarkable-Journey
 gutenberg_issued: '2011-10-16'
 gutenberg_type: Text
 identifiers:
