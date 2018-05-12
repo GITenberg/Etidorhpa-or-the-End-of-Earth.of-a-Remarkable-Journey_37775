@@ -1,0 +1,35 @@
+_repo: Etidorhpa-or-the-End-of-Earth.of-a-Remarkable-Journey_37775
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Knapp, J. Augustus
+    gutenberg_agent_id: '39052'
+    url: http://www.gutenberg.org/2009/agents/39052
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lloyd, John Uri
+    birthdate: 1849
+    deathdate: 1936
+    gutenberg_agent_id: '39051'
+    url: http://www.gutenberg.org/2009/agents/39051
+description: ''
+gutenberg_issued: '2011-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37775'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Occultism -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Earth (Planet) -- Internal structure -- Fiction'
+title: "Etidorhpa; or, The End of Earth.\r\nThe Strange History of a Mysterious Being\
+  \ and the Account of a Remarkable Journey"
+url: http://www.gutenberg.org/ebooks/37775
